@@ -60,3 +60,4 @@ class GithubWordGame:
 if __name__ == "__main__":
     game = GithubWordGame()
     game.play()
+    
